@@ -1,0 +1,1 @@
+AI agents that snipe expiring .art domains for digital artists who forgot to renew, flipping them back at a 20% fee.
